@@ -5,5 +5,5 @@ console.log("Welcome " + userName + " lets play a game!")
 
 score = 0;
 function Play(question,answer){
-  
+  var userAnswer = readlineSync.question(question);
 }
