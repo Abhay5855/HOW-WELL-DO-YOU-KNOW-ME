@@ -20,7 +20,7 @@ function Play(question,answer){
 
   
 }
-}
+
 
 var questions = [{
   question:"Where do I live?",
