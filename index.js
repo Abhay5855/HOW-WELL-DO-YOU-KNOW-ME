@@ -12,4 +12,12 @@ function Play(question,answer){
     console.log("Your score is ",score)
     console.log("----------------")
   }
+   else{
+    console.log("You are wrong")
+    console.log("your score is ",score)
+    console.log("----------------")
+    }
+
+  
+}
 }
