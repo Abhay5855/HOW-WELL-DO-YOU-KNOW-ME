@@ -21,3 +21,14 @@ function Play(question,answer){
   
 }
 }
+
+var questions = [{
+  question:"Where do I live?",
+  answer:"Nagpur"
+},{
+  question:"My favourite friend's character?",
+  answer:"Joey"
+},{
+  question:"Who is my crush?",
+  answer:"scarllet johannson"
+}]
