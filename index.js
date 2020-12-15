@@ -35,4 +35,5 @@ var questions = [{
 
 for(var i = 0; i < questions.length; i++){
   var currentQuestion = questions[i];
+  Play(currentQuestion.question,currentQuestion.answer)
 }
