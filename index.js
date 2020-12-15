@@ -32,3 +32,7 @@ var questions = [{
   question:"Who is my crush?",
   answer:"scarllet johannson"
 }]
+
+for(var i = 0; i < questions.length; i++){
+  
+}
